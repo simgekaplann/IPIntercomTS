@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TimingFramework-0.55">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/TimingFramework-0.55.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/swing-time-picker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
